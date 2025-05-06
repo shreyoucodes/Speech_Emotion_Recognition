@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ## Usage
 
 ### Run the Jupyter Notebook:
-Open `orange_problem_annotated.ipynb` in Jupyter Notebook or JupyterLab.
+Open `Speech_Emotion_Recognition.ipynb` in Jupyter Notebook or JupyterLab.
 
 Execute cells sequentially to:
 - Install libraries
